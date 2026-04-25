@@ -9,29 +9,29 @@ Built using **Flutter + Firebase**, FinTrack delivers real-time cloud data stora
 
 # 📸 App Screenshots
 
-## Login 
-![Login](assets/screenshots/login.jpeg)
+<h3>Login</h3>
+<img src="assets/screenshots/login.jpeg" width="250"/>
 
-## Dashboard
-![Dashboard](assets/screenshots/dashboard.jpeg)
+<h3>Dashboard</h3>
+<img src="assets/screenshots/dashboard.jpeg" width="250"/>
 
-## Add Transaction
-![Add Transaction](assets/screenshots/add_transaction.jpeg)
+<h3>Add Transaction</h3>
+<img src="assets/screenshots/add_transaction.jpeg" width="250"/>
 
-## Transaction History
-![History](assets/screenshots/history.jpeg)
+<h3>Transaction History</h3>
+<img src="assets/screenshots/history.jpeg" width="250"/>
 
-## Spending Insights
-![Insights](assets/screenshots/insights.jpeg)
+<h3>Spending Insights</h3>
+<img src="assets/screenshots/insights.jpeg" width="250"/>
 
-## Budget Management
-![Budget](assets/screenshots/budget.jpeg)
+<h3>Budget Management</h3>
+<img src="assets/screenshots/budget.jpeg" width="250"/>
 
-## Profile
-![Profile](assets/screenshots/profile.jpeg)
+<h3>Profile</h3>
+<img src="assets/screenshots/profile.jpeg" width="250"/>
 
-## Lending & Borrowing
-![Lending](assets/screenshots/lending.jpeg)
+<h3>Lending & Borrowing</h3>
+<img src="assets/screenshots/lending.jpeg" width="250"/>
 
 ---
 
