@@ -10,28 +10,28 @@ Built using **Flutter + Firebase**, FinTrack delivers real-time cloud data stora
 # 📸 App Screenshots
 
 ## Login 
-![Login](screenshots/login.jpeg)
+![Login](assets/screenshots/login.jpeg)
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.jpeg)
+![Dashboard](assets/screenshots/dashboard.jpeg)
 
 ## Add Transaction
-![Add Transaction](screenshots/add_transaction.jpeg)
+![Add Transaction](assets/screenshots/add_transaction.jpeg)
 
 ## Transaction History
-![History](screenshots/history.jpeg)
+![History](assets/screenshots/history.jpeg)
 
 ## Spending Insights
-![Insights](screenshots/insights.jpeg)
+![Insights](assets/screenshots/insights.jpeg)
 
 ## Budget Management
-![Budget](screenshots/budget.jpeg)
+![Budget](assets/screenshots/budget.jpeg)
 
 ## Profile
-![Profile](screenshots/profile.jpeg)
+![Profile](assets/screenshots/profile.jpeg)
 
 ## Lending & Borrowing
-![Lending](screenshots/lending.jpeg)
+![Lending](assets/screenshots/lending.jpeg)
 
 ---
 
